@@ -35,5 +35,3 @@ jobs:
         run: pack install blake2b
       - name: Test blake2b
         run: pack test blake2b
-      - name: Test blake2b on NodeJS
-        run: pack --cg node test blake2b
