@@ -11,3 +11,4 @@ executable = "blake2b-test"
 sourcedir  = "src"
 
 depends    = blake2b
+           , hedgehog
