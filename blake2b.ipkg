@@ -2,7 +2,8 @@ package blake2b
 version    = 0.0.1
 authors    = "Stefan Höck"
 depends    = base    >= 0.6.0
-           , array
+           , bytestring
+           , ilex-core
 
 brief      = "Implementation of the BLAKE2b hash function2"
 
