@@ -1,0 +1,13 @@
+package blake2b-test
+
+authors    = "stefan-hoeck"
+version    = 0.0.1
+readme     = "README.md"
+license    = "BSD-3 Clause"
+
+main       = Main
+executable = "blake2b-test"
+
+sourcedir  = "src"
+
+depends    = blake2b
