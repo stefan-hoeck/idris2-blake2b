@@ -1,0 +1,4 @@
+[custom.all.blake2b]
+type   = "local"
+path   = "."
+ipkg   = "blake2b.ipkg"
